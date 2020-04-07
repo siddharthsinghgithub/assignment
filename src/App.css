@@ -3,6 +3,7 @@
   border: 2px solid;
   height: 400px;
   display: flex;
+  margin: auto;
   flex-direction: column;
 }
 
@@ -20,4 +21,15 @@
   display: flex;
   border: 1px solid;
   flex-direction: column;
+}
+
+.center {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+}
+
+.title {
+  display: flex;
 }
